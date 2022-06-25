@@ -1,0 +1,16 @@
+@import url('https://fonts.google.com/specimen/Poppins');
+
+
+body {
+    background-image: 
+    url("bg-intro-mobile.png");
+    background-color: rgb(211, 130, 130);
+    font-size: Poppins, sans seris;
+    font-size: 16px;
+    color: white;
+    
+}
+
+h1 {
+    font-weight: 700;
+}
